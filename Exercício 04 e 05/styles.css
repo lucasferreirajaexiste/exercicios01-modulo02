@@ -1,0 +1,53 @@
+/* HEADER */
+header {
+  background-color: #2980b9;       
+  color: white;
+  padding: 20px;
+  margin: 20px;
+  border: 3px solid #1f618d;
+  border-radius: 8px;
+  text-align: center;
+}
+
+/* MAIN */
+main {
+  background-color: #f4f6f7;        
+  color: #2c3e50;
+  padding: 20px;
+  margin: 20px;
+  border: 3px dashed #7f8c8d;
+  border-radius: 8px;
+}
+
+/* FOOTER */
+footer {
+  background-color: #27ae60;        
+  color: white;
+  padding: 20px;
+  margin: 20px;
+  border: 3px solid #1e8449;
+  border-radius: 8px;
+  text-align: center;
+}
+
+/* H2 com destaque */
+h2 {
+  font-size: 36px;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+/* Texto em destaque */
+.destaque {
+  font-style: italic;
+  background-color: #fdebd0;       
+  padding: 3px 6px;
+  border-radius: 4px;
+}
+
+/* Parágrafo com ID "importante" */
+#importante {
+  border-top: 5px solid #e74c3c;    
+  padding-top: 10px;
+  margin-top: 20px;
+}
